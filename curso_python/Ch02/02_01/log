@@ -1,0 +1,500 @@
+  155  conda env list
+  156  source activae py3k
+  157  source activate py3k
+  158  jupyter notebook
+  159  jupyter notebook
+  160  source deactivae py3k
+  161  source desactivae py3k
+  162  conda env list
+  163  conda create -n py35 python=3.5
+  164  source activate py35
+  165  jupyter notebook
+  166  sudo killall AppleCameraAssistant
+  167  sudo killall VDCAssistant
+  168  ssh root@10.11.100.149
+  169  ssh root@10.11.100.149
+  170  ssh root@10.11.100.149
+  171  ssh root@10.11.100.149
+  172  ssh root@10.11.100.149
+  173  ssh root@10.11.100.149
+  174  ping 10.11.100.149
+  175  ssh root@10.11.100.149
+  176  ssh -o PubkeyAuthentication=no 10.11.100.149
+  177  ssh -o PubkeyAuthentication=no 10.11.100.149
+  178  ssh -o PubkeyAuthentication=no 10.11.100.149
+  179  ssh scioo@10.11.100.149
+  180  ssh scioo@10.11.100.149
+  181  ssh scioo@10.11.100.149
+  182  ssh scioo@10.11.100.149
+  183  ssh -o PubkeyAuthentication=no 10.11.100.149
+  184  ssh -o PubkeyAuthentication=no 10.11.100.149
+  185  ssh scioo@10.11.100.149
+  186  ssh scioo@10.11.100.149
+  187  ping 10.11.100.149
+  188  ssh -o PubkeyAuthentication=no 10.11.100.149
+  189  ssh -o PubkeyAuthentication=no 10.11.100.149
+  190  ssh -o PubkeyAuthentication=no root@10.11.100.149
+  191  ssh -o PubkeyAuthentication=no root@10.11.100.149
+  192  ssh -vvv root@10.11.100.149
+  193  rm ~/.ssh/file.pub
+  194  rm ~/.ssh/
+  195  rm -rf ~/.ssh/
+  196  ssh -vvv root@10.11.100.149
+  197  cd ~/.ssh/
+  198  ls
+  199  nano config
+  200  ssh -o PubkeyAuthentication=no root@10.11.100.149
+  201  ls
+  202  nano known_hosts 
+  203  ssh -o PreferredAuthentications=password root@10.11.100.149
+  204  ssh -o PreferredAuthentications=password root@10.11.100.149
+  205  clear
+  206  ping 10.11.100.149
+  207  ssh scioo@10.11.100.149
+  208  ssh root@10.11.100.149
+  209  ssh sciio@10.11.100.149
+  210  brew install putty
+  211  ls
+  212  cd ..
+  213  pwd
+  214  ssh root@10.11.100.149
+  215  putty
+  216  puttygen puttygen privatekey.ppk -O private-openssh -o privatekey.pem
+  217  puttygen privatekey.ppk -O private-openssh -o privatekey.pem
+  218  puttygen 
+  219  port install putty
+  220  sudo port install putty
+  221  cd YOUTUBE/
+  222  ./ytDownload.pl https://www.youtube.com/watch?v=R2KQlrnjDsw
+  223  ./ytDownload.pl https://www.youtube.com/watch?v=2FNUfQ0bnxo
+  224  ./ytDownload.pl https://www.youtube.com/watch?v=iHcLPcKVVN8
+  225  history | grep kill
+  226  history | grep kill
+  227  cd ..
+  228  cd Downloads/
+  229  rm DEC*
+  230  ssh root@10.11.100.149
+  231  ssh sciio@10.11.100.149
+  232  bash -c 'clear; cd "/Users/naubergois/Downloads/Calculator 2/CalculatorMSTest"; export ASPNETCORE_URLS="http://localhost:5000/"; "/usr/local/share/dotnet/dotnet" "/Users/naubergois/Downloads/Calculator 2/CalculatorMSTest/bin/Debug/netcoreapp2.0/CalculatorMSTest.dll" ; echo $? > /var/folders/wv/z16r2fpd4sl_4nbcy8s7hg700000gn/T/tmp24d1700d.tmp; echo; read -p "Press any key to continue..." -n1; exit'; exit
+  233  bash -c 'clear; cd "/Users/naubergois/Downloads/Calculator 2/CalculatorMSTest"; export ASPNETCORE_URLS="http://localhost:5000/"; "/usr/local/share/dotnet/dotnet" "/Users/naubergois/Downloads/Calculator 2/CalculatorMSTest/bin/Debug/netcoreapp2.0/CalculatorMSTest.dll" ; echo $? > /var/folders/wv/z16r2fpd4sl_4nbcy8s7hg700000gn/T/tmp134ef02f.tmp; echo; read -p "Press any key to continue..." -n1; exit'; exit
+  234  cd Downloads/
+  235  cd apache-jmeter-3.1/
+  236  cd bin/
+  237  ./jmeter
+  238  brew install postgresql --without-ossp-uuid
+  239  brew install metasploit
+  240  port install metasploit
+  241  sudo port install metasploit
+  242  cd /usr/local/share/
+  243  git clone https://github.com/rapid7/metasploit-framework.git
+  244  cd metasploit-framework
+  245  for MSF in $(ls msf*); do ln -s /usr/local/share/metasploit-framework/$MSF /usr/local/bin/$MSF;done
+  246  sudo chmod go+w /etc/profile
+  247  sudo echo export MSF_DATABASE_CONFIG=/usr/local/share/metasploit-framework/config/database.yml >> /etc/profile
+  248  bundle install
+  249  brew install bundle
+  250  msfconsole 
+  251  gem install bundler
+  252  sudo gem install bundler
+  253  msfconsole 
+  254  bundle install
+  255  gem install nokogiri -v '1.8.1
+  256  '
+  257  sudo gem install nokogiri -v '1.8.1
+  258  '
+  259  sudo bundle install
+  260  sudo gem install nokogiri -v '1.8.1'
+  261  sudo gem install nokogiri -v '1.8.1'
+  262  clear
+  263  docker pull linuxkonsult/kali-metasploit
+  264  docker run -t -i linuxkonsult/kali-metasploit
+  265  docker run -t -i linuxkonsult/kali-metasploit
+  266  /Users/naubergois/geckodriver ; exit;
+  267  cd ..
+  268  cd ..
+  269  cd ..
+  270  cd Documents/
+  271  rm Screen\ Shot\ 201*
+  272  df -h
+  273  cd bin
+  274  cd Downloads/
+  275  cd apache-jmeter-2.4
+  276  cd apache-jmeter-4.0
+  277  cd bin
+  278  ./jmeter
+  279  cler
+  280  clear
+  281  ./jmeter-server
+  282  ./jmeter-server -p 9999
+  283  nano jmeter-server
+  284  ./jmeter-server 
+  285  cd ..
+  286  cd ..
+  287  cd apache-jmeter-3.1/
+  288  cd bin/
+  289  ./jmeter-server 
+  290  clear
+  291  cd ..
+  292  cd ..
+  293  cd ..
+  294  cd curso_python
+  295  ls
+  296  cd  clear
+  297  clear
+  298  ls
+  299  clear
+  300  cd ch02
+  301  ls
+  302  cd ..
+  303  cd ch01
+  304  ls
+  305  cd 01_02/
+  306  jupyter notebook
+  307  cd ..
+  308  jupyter notebook
+  309  cd ..
+  310  ls
+  311  cd Ch01/
+  312  jupyter notebook
+  313  clear
+  314  cat /etc/shells
+  315  nano alomundo.sh
+  316  chmod +x alomundo.sh 
+  317  ./alomundo.sh 
+  318  bash alomundo.sh 
+  319  csh alomundo.sh 
+  320  sh alomundo.sh 
+  321  nano alomundo.sh 
+  322  vim alomundo.sh 
+  323  vim alomundo.sh 
+  324  clear
+  325  who
+  326  nano script01.sh
+  327  echo $USER
+  328  who
+  329  cal
+  330  chmod +x script01.sh 
+  331  ./script01.sh 
+  332  nano script01.sh
+  333  ./script01.sh 
+  334  nano script01.sh
+  335  ./script01.sh 
+  336  nano script01.sh
+  337  echo $BASH
+  338  echo $BASH_VERSION
+  339  echo $COLUMNS
+  340  echo $HOME
+  341  echo $LINES
+  342  echo #LOGNAME
+  343  echo $LOGNAME
+  344  echo $OSTYPE
+  345  echo $PATH
+  346  echo $PS1
+  347  echo $PWD
+  348  echo $SHELL
+  349  echo $USERNAME
+  350  echo $USER
+  351  numero=1
+  352  echo $numero
+  353  numero=2+2
+  354  echo $numero
+  355  numero=$((2+2))
+  356  echo $numero
+  357  numero = 10
+  358  numero= 10
+  359  numero=10
+  360  Numero=20
+  361  echo $numero
+  362  echo $Numero
+  363  numero=
+  364  echo $numero
+  365  numero=""
+  366  echo $numero
+  367  nano script02.sh
+  368  chmod +x script02.sh 
+  369  ./script02.sh 
+  370  nano script02.sh
+  371  ./script02.sh 
+  372  nano script02.sh
+  373  ./script02.sh 
+  374  echo -e "Linha 1 \n Linha 2"
+  375  echo "Linha 1 \n Linha 2"
+  376  echo -e "Linha 1 \n Linha 2"
+  377  echo -e "Linha 1 \nLinha 2"
+  378  echo -e "\aLinha 1 \nLinha 2"
+  379  echo -e "\aLinha 1 \nLinha 2"
+  380  echo -e "\aLinha 1\b \nLinha 2"
+  381  echo -e "\aLinha 1\b \c Linha 2"
+  382  echo -e "Linha 1 \\n Linha 2"
+  383  echo -e "Linha 1 \\ n Linha 2"
+  384  clear
+  385  expr 2+4
+  386  expr 2 + 4
+  387  numero=`expr 2 + 4`
+  388  echo $numero
+  389  expr 2 * 2
+  390  expr 2 \* 2
+  391  expr 2 / 2
+  392  expr 6 % 2
+  393  expr 10 % 4
+  394  numero="expr 2 + 4"
+  395  echo $numero 
+  396  numero=`expr 2 + 4`
+  397  echo $numero 
+  398  arquivos=`ls`
+  399  echo $arquivos
+  400  echo "Hoje é `date`"
+  401  echo "Hoje é 'date'"
+  402  echo "Hoje é $date"
+  403  numero=1
+  404  echo " $numero " 
+  405  echo ' $numero ' 
+  406  echo " $numero " 
+  407  echo ' $numero ' 
+  408  echo ` $numero ` 
+  409  echo ` who  ` 
+  410  clear
+  411  echo ` who  ` 
+  412  echo $?
+  413  expr 1 + 3
+  414  echo $?
+  415  expr 1+3
+  416  echo $?
+  417  `a`
+  418  echo $?
+  419  echo $?
+  420  wildwest canwork?
+  421  echo $?
+  422  clear
+  423  history
+  424  clear
+  425  history | grep ls
+  426  echo $?>>log
+  427  cat log
+  428  echo $?>>log
+  429  cat log
+  430  echo $?>log
+  431  cat log
+  432  echo $?>erro
+  433  cat erro
+  434  ls >arquivos.txt
+  435  cat arquivos.txt 
+  436  ls >>arquivos.txt
+  437  cat arquivos.txt 
+  438  ls
+  439  echo $?
+  440  adasd
+  441  echo $?
+  442  clear
+  443  read a
+  444  echo $a
+  445  nano script03.sh
+  446  chmod +x script03.sh 
+  447  ./script03.sh 
+  448  echo "ls" > script04.sh
+  449  chmod +x script04.sh 
+  450  chmod 755 script04.sh 
+  451  ./script04.sh 
+  452  echo " ls ; echo 'Teste'; ">script05.sh
+  453  chmod +x script05.sh 
+  454  ./script05.sh 
+  455  clear
+  456  ls *
+  457  ls a*
+  458  ls b*
+  459  ls *.txt
+  460  ls a?
+  461  ls a???????????
+  462  ls a??????????t
+  463  ls a?q????????t
+  464  ls [abc]*
+  465  ls [abc]?q*
+  466  ls [123]*
+  467   ls /bin/[a-c]*
+  468  echo $numero
+  469  numero=2
+  470  echo $numero
+  471  a=1
+  472  echo $a
+  473  echo $(a)
+  474  echo $a
+  475  b=3
+  476  echo $b
+  477  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  478  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  479  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  480  ssh-keygen
+  481  ssh-keygen
+  482  pip install kivy
+  483  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  484  ls
+  485  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  486  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  487  ssh-keygen
+  488  cp /Users/naubergois/.ssh/id_rsa.pub /Users/naubergois/
+  489  df -h
+  490  df -h
+  491  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  492  ls
+  493  cd Downloads/
+  494  cd 2-RegressaoLinearSimples
+  495  ls
+  496  jupyter notebook
+  497  ssh -Y dmpm@titan.dsacademy.com.br -p 26
+  498  ssh -Y fgois@titan.dsacademy.com.br -p 26
+  499  ssh -Y fgois@titan.dsacademy.com.br -p 26
+  500  ssh -Y fgois@titan.dsacademy.com.br -p 26
+  501  cd curso_python
+  502  jupyter notebook
+  503  TOP
+  504  df -h
+  505  df -h
+  506  clear
+  507  variavel=20
+  508  20=variavel
+  509  veiculo=Onibus
+  510  echo $veiculo
+  511  veiculo='Onibus'
+  512  echo $veiculo
+  513  veiculo= 'Onibus'
+  514  veiculo ='Onibus'
+  515  veiculo ='Onibus'
+  516  veiculo='Onibus'
+  517  Veiculo='Carro'
+  518  echo $veiculo
+  519  echo $Veiculo
+  520  echo $Veiculo
+  521  echo Veiculo
+  522  echo $Veiculo
+  523  expr 1 + 3
+  524  expr 1 - 3
+  525  expr 1 \* 3
+  526  expr 2 \* 3
+  527  expr 2 / 3
+  528  expr 10 / 2
+  529  expr 2 * 3
+  530  ls *
+  531  clear
+  532  echo `expr 6 + 3`
+  533  echo 2+3
+  534  echo $((2+3))
+  535  soma=$((2+3))
+  536  echo $soma
+  537  echo 2/3
+  538  echo expr 6 + 3
+  539  echo `expr 6 + 3`
+  540  echo $(expr 6 + 3)
+  541  echo $((6+3))
+  542  echo $(6 + 3)
+  543  echo " $soma "
+  544  echo ' $soma '
+  545  echo ` ls  `
+  546  echo ' $soma '
+  547  a=" o valor de soma é $soma"
+  548  echo $a
+  549  a=' o valor de soma é $soma'
+  550  echo $a
+  551  echo `ls`
+  552  echo "Today is `date`". 
+  553  clear
+  554  a=' o valor de soma é $soma'
+  555  echo $a
+  556  a=" o valor de soma é $soma"
+  557  echo $a
+  558  a=`ls`
+  559  a=`ls a*`
+  560  a=`ls a\*`
+  561  a=`ls a/*`
+  562  a=$(ls *)
+  563  a=`ls`
+  564  echo $a
+  565  echo $?
+  566  a=`teste`
+  567  echo $?
+  568  nano lervariavel.sh
+  569  chmod +x lervariavel.sh 
+  570  ./lervariavel.sh 
+  571  ls *
+  572  ls a*
+  573  ls c*
+  574  ls
+  575  ls C*
+  576  ls ?h0?
+  577  ls [CcA]h0[123456789]
+  578  clear
+  579  cd ..
+  580  clear
+  581  ls /bin/[a-c]*
+  582  ls /bin/[a-z]*
+  583  ls /bin/[ac]*
+  584  ls
+  585  clear
+  586  wget www.opovo.com.br opovo.html
+  587  wget www.opovo.com.br >  opovo.html
+  588  clear
+  589  cat index.html.3 | grep Fortaleza
+  590  wget www.opovo.com.br | grep Fortaleza
+  591  clear
+  592  ls /bin/[!a-o]
+  593  ls /bin/[a-o]
+  594  ls /bin/[a-o]*
+  595  ls /bin/[!a-o]*
+  596  ls /bin/*
+  597  clear
+  598  cat wget www.opovo.com.br
+  599  man wget
+  600  wget www.opovo.com.br -o opovo | cat opovo | grep Fortaleza
+  601  wget www.opovo.com.br -o opovo
+  602  cat opovo
+  603* cat opovo | grep Fo
+  604  cat opovo
+  605  wget www.opovo.com.br | cat index.html | grep Fortaleza
+  606  cat index.html.7  | grep Fortaleza
+  607  clear
+  608  ls /bin/[^a-o
+  609  ls /bin/[^a-o]
+  610  ls /bin/[^a-o]*
+  611  date ; who
+  612  who
+  613  cat index.html ; date ; free -g
+  614  free
+  615  df -h
+  616  clear
+  617  data  ; who 
+  618  date  ; who 
+  619  echo "Digite o seu nome" ; read nome; echo "Seu nome é $nome "
+  620  tail index.html
+  621  head index.html
+  622  tail index.html
+  623  head index.html
+  624  nano index.html
+  625  head index.html
+  626  head -n 5  index.html
+  627  head -n 2  index.html
+  628  cd curso_python
+  629  cd Ch02/
+  630  cd 02_02/
+  631  ls
+  632  cd ..
+  633  cd 02_01
+  634  ls
+  635  clear
+  636  sort mtcars.csv 
+  637  nano mtcars.csv 
+  638  sort mtcars.csv 
+  639  head mtcars.csv 
+  640  tail mtcars.csv 
+  641  mail mtcars.csv 
+  642  mail mtcars.csv 
+  643  mail mtcars.csv 
+  644  mail mtcars.csv 
+  645  man mail
+  646  mail naubergois@gmail.com,teste,teste,teste
+  647  mail naubergois@gmail.com,teste,teste,teste
+  648  mail -s "Teste"
+  649  mail -s "Teste" -c "naubergois@gmail.com" -f mtcars.csv 
+  650  mail -s "naubergois@gmail.com" -c "naubergois@gmail.com" -f mtcars.csv 
+  651  clear
+  652  history
+  653  ls
+  654  history > log
